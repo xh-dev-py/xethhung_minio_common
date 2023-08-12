@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "xethhung12_minio_common"
-version = "0.0.1"
+version = "0.0.2"
 description = "A common library fro xethhung12_minio(download/upload)_file package"
 readme = "README.md"
 requires-python = ">=3.7"
