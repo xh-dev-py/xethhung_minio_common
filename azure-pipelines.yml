@@ -6,8 +6,9 @@
 trigger:
 - master
 
+
 pool:
-  vmImage: registry.hub.docker.com/xethhung/test-image
+  vmImage: xethhung/test-image
 
 steps:
 - script: echo Hello, world!
