@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: centos
+  vmImage: xethhung/test-image
 
 steps:
 - script: echo Hello, world!
